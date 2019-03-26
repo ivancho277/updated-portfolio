@@ -1,6 +1,6 @@
 
 body{
-background: url(/assets/images/cool-background.png) no-repeat center center fixed; 
+background: url(assets/images/cool-background.png) no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -25,5 +25,8 @@ background-size: cover;
      
  }
  .about-me{
-     padding: 10px
+     padding: 10px;
+ }
+ .my-form{
+     padding: 15px;
  }
