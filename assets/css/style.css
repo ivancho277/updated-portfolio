@@ -1,0 +1,13 @@
+
+body{
+background: url(/assets/images/cool-background.png) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+ .main-grid-container{
+     display: grid;
+     grid-template-columns: auto auto auto auto 200px;
+     grid-template-rows: auto auto auto;
+ }
